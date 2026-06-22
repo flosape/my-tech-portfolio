@@ -1,33 +1,44 @@
-# Flosape - Tech & Data Builder
+# Flosape - Web Developer
 
-I build websites, bots, and data tools that solve real problems.
+I build fast, mobile-friendly websites for shops, businesses & personal projects. 
+All hosted free on GitHub Pages.
 
-### Featured Projects
+---
 
-**1. Prayer Bot v3** 
-AI WhatsApp bot for prayer requests + daily verses  
-→ [View Code](https://github.com/flosape/prayer-bot-v3-)
+### Projects I Built
 
-**2. Smartbrain AI**
-Face detection app using AI vision API  
-→ [View Code](https://github.com/flosape/Smartbrain)
+**1. MILESTECHCRAFT Website**  
+Electronics & IT Solutions shop  
+**Live:** https://flosape.github.io/MILESTECHCRAFT-website/  
+**Features:** Logo design, services list, contact info, mobile responsive  
+**Tech:** HTML, CSS
 
-**3. Colourful Cakes n More**
-Bakery website for Igbogbo client - Coming Soon  
-→ Repo: Creating next | Live: Coming soon
+**2. Colourful Cakes n More**  
+Bakery & confectionery website  
+**Live:** https://flosape.github.io/colourful-cakes/  
+**Features:** Rainbow logo, product showcase, WhatsApp order button  
+**Tech:** HTML, CSS
 
-**4. MILESTECHCRAFT Website**
-Hardware & IT Solutions business site - Coming Soon  
-Address: 34 Oba Omolaja Road, Igbogbo, Ikorodu, Lagos State  
-Services: Laptops, Phones, CCTV, Solar, Electronics  
-→ Repo: Creating next | Live: Coming soon
+**3. Prayer Bot 3**  
+Islamic prayer times web app  
+**Live:** https://flosape.github.io/prayer-bot-3/  
+**Features:** Tap for daily prayer times, works on phone browser  
+**Tech:** HTML, CSS, JavaScript
 
-### Tech Stack
-HTML, CSS, JavaScript, Python, Excel, SQL, GitHub
+---
 
-### Contact / Let’s Work Together
-**Software/Web Projects:**  
-WhatsApp: +2347030969180  
-Email: flosapebizandservices@gmail.com  
+### Screenshots
+*Upload your 3 screenshots to this repo, then they’ll show here*
+1. MILESTECHCRAFT ![screenshot](milestechcraft.jpg)
+2. Colourful Cakes ![screenshot](colourful-cakes.jpg)  
+3. Prayer Bot ![screenshot](prayer-bot.jpg)
 
-"Ship today. Blessing + hard work."
+---
+
+### Hire Me
+Need a website for your shop, business, or brand?  
+I’ll build it clean, fast, and mobile-friendly. Free hosting included.
+
+**Contact:** WhatsApp: +234 703 096 9180 | DM me on GitHub @flosape
+
+---
