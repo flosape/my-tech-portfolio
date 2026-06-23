@@ -15,7 +15,7 @@ Electronics & IT Solutions shop
 
 **2. Colourful Cakes n More**  
 Bakery & confectionery website  
-**Live:** https://flosape.github.io/colourful-cakes/  
+**Live:** flosape.github.io/colourful-cake-s-n-more-website/  
 **Features:** Rainbow logo, product showcase, WhatsApp order button  
 **Tech:** HTML, CSS
 
