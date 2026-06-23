@@ -17,7 +17,7 @@ https://flosape.github.io/MILESTECHCRAFT-website/
 **2. Colourful Cakes n More**  
 Bakery & confectionery website  
 **Live:** 
-https://flosape.github.io/colourful-cake-s-n-more-website/
+https://flosape.github.io/my-tech-portfolio/
 **Features:** Rainbow logo, product showcase, WhatsApp order button  
 **Tech:** HTML, CSS
 
