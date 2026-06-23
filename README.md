@@ -9,13 +9,15 @@ All hosted free on GitHub Pages.
 
 **1. MILESTECHCRAFT Website**  
 Electronics & IT Solutions shop  
-**Live:** https://flosape.github.io/MILESTECHCRAFT-website/  
+**Live:** 
+https://flosape.github.io/MILESTECHCRAFT-website/  
 **Features:** Logo design, services list, contact info, mobile responsive  
 **Tech:** HTML, CSS
 
 **2. Colourful Cakes n More**  
 Bakery & confectionery website  
-**Live:** https://flosape.github.io/colourful-cake-s-n-more-website/
+**Live:** 
+https://flosape.github.io/colourful-cake-s-n-more-website/
 **Features:** Rainbow logo, product showcase, WhatsApp order button  
 **Tech:** HTML, CSS
 
